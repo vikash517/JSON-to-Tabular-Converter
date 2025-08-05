@@ -367,5 +367,3 @@ python json_to_excel.py nested_data.json analysis.xlsx "." 2
 # Process sample data
 python json_to_excel.py sample_data/complex_nested_array.json products.xlsx
 ```
-#   J S O N - t o - T a b u l a r - C o n v e r t e r  
- 
