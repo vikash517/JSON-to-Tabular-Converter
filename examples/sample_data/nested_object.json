@@ -1,0 +1,32 @@
+{
+  "user": {
+    "id": 101,
+    "profile": {
+      "name": "Jane Smith",
+      "contact": {
+        "email": "jane@example.com",
+        "phone": "+1-555-0123"
+      },
+      "preferences": {
+        "theme": "dark",
+        "notifications": true,
+        "language": "en"
+      }
+    },
+    "metadata": {
+      "created_at": "2023-01-15T10:30:00Z",
+      "last_login": "2025-08-04T09:15:00Z",
+      "login_count": 147
+    }
+  },
+  "settings": {
+    "privacy": {
+      "public_profile": false,
+      "show_email": true
+    },
+    "security": {
+      "two_factor": true,
+      "password_changed": "2024-12-01T14:20:00Z"
+    }
+  }
+}

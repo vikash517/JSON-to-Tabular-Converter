@@ -1,0 +1,93 @@
+[
+  {
+    "employee_id": "EMP001",
+    "personal": {
+      "name": "Michael Chen",
+      "age": 32,
+      "address": {
+        "street": "123 Main St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94102",
+        "coordinates": {
+          "lat": 37.7749,
+          "lng": -122.4194
+        }
+      }
+    },
+    "employment": {
+      "position": "Senior Software Engineer",
+      "department": "Engineering",
+      "salary": 120000,
+      "start_date": "2020-03-15",
+      "manager": {
+        "name": "Sarah Johnson",
+        "id": "MGR001"
+      }
+    },
+    "skills": ["Python", "JavaScript", "React", "Docker"],
+    "projects": [
+      {
+        "name": "API Redesign",
+        "status": "completed",
+        "duration_months": 6
+      },
+      {
+        "name": "Mobile App",
+        "status": "in_progress",
+        "duration_months": 4
+      }
+    ],
+    "benefits": {
+      "health_insurance": true,
+      "dental": true,
+      "retirement_plan": {
+        "type": "401k",
+        "company_match": 0.06
+      }
+    }
+  },
+  {
+    "employee_id": "EMP002",
+    "personal": {
+      "name": "Lisa Rodriguez",
+      "age": 28,
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "coordinates": {
+          "lat": 30.2672,
+          "lng": -97.7431
+        }
+      }
+    },
+    "employment": {
+      "position": "UX Designer",
+      "department": "Design",
+      "salary": 85000,
+      "start_date": "2021-08-01",
+      "manager": {
+        "name": "David Kim",
+        "id": "MGR002"
+      }
+    },
+    "skills": ["Figma", "Adobe Creative Suite", "User Research", "Prototyping"],
+    "projects": [
+      {
+        "name": "Website Redesign",
+        "status": "completed",
+        "duration_months": 3
+      }
+    ],
+    "benefits": {
+      "health_insurance": true,
+      "dental": false,
+      "retirement_plan": {
+        "type": "401k",
+        "company_match": 0.04
+      }
+    }
+  }
+]

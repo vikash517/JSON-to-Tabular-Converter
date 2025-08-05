@@ -1,0 +1,64 @@
+{
+  "sales_data": {
+    "quarter": "Q3 2025",
+    "regions": [
+      {
+        "name": "North America",
+        "total_sales": 2500000,
+        "countries": [
+          {
+            "name": "USA",
+            "sales": 2000000,
+            "cities": [
+              {"name": "New York", "sales": 800000},
+              {"name": "Los Angeles", "sales": 600000},
+              {"name": "Chicago", "sales": 400000}
+            ]
+          },
+          {
+            "name": "Canada",
+            "sales": 500000,
+            "cities": [
+              {"name": "Toronto", "sales": 300000},
+              {"name": "Vancouver", "sales": 200000}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "total_sales": 1800000,
+        "countries": [
+          {
+            "name": "UK",
+            "sales": 800000,
+            "cities": [
+              {"name": "London", "sales": 600000},
+              {"name": "Manchester", "sales": 200000}
+            ]
+          },
+          {
+            "name": "Germany",
+            "sales": 700000,
+            "cities": [
+              {"name": "Berlin", "sales": 400000},
+              {"name": "Munich", "sales": 300000}
+            ]
+          },
+          {
+            "name": "France",
+            "sales": 300000,
+            "cities": [
+              {"name": "Paris", "sales": 300000}
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "currency": "USD",
+      "generated_at": "2025-08-04T12:00:00Z",
+      "data_source": "CRM System"
+    }
+  }
+}

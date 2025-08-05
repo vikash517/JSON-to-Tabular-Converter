@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "description": null,
+    "tags": [],
+    "metadata": {}
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "description": "",
+    "price": null,
+    "tags": ["electronics", "gadgets"],
+    "metadata": {
+      "weight": null,
+      "dimensions": {
+        "length": 10,
+        "width": null,
+        "height": ""
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "price": 29.99,
+    "tags": ["books"],
+    "metadata": {
+      "author": "John Doe",
+      "pages": 250,
+      "isbn": null
+    }
+  }
+]

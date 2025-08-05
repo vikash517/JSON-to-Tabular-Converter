@@ -1,0 +1,67 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Wireless Headphones",
+    "price": 199.99,
+    "category": {
+      "main": "Electronics",
+      "sub": "Audio"
+    },
+    "specifications": {
+      "battery_life": "30 hours",
+      "connectivity": ["Bluetooth 5.0", "USB-C"],
+      "features": {
+        "noise_cancelling": true,
+        "water_resistant": false,
+        "wireless_charging": true
+      }
+    },
+    "reviews": [
+      {
+        "user": "tech_reviewer",
+        "rating": 4.5,
+        "comment": "Great sound quality"
+      },
+      {
+        "user": "audio_fan",
+        "rating": 5.0,
+        "comment": "Best headphones I've owned"
+      }
+    ],
+    "stock": {
+      "quantity": 150,
+      "warehouse": "WH-001",
+      "last_updated": "2025-08-03T16:45:00Z"
+    }
+  },
+  {
+    "product_id": "P002",
+    "name": "Smart Watch",
+    "price": 299.99,
+    "category": {
+      "main": "Electronics",
+      "sub": "Wearables"
+    },
+    "specifications": {
+      "battery_life": "7 days",
+      "connectivity": ["Bluetooth", "WiFi", "Cellular"],
+      "features": {
+        "gps": true,
+        "heart_rate": true,
+        "water_resistant": true
+      }
+    },
+    "reviews": [
+      {
+        "user": "fitness_guru",
+        "rating": 4.8,
+        "comment": "Perfect for workouts"
+      }
+    ],
+    "stock": {
+      "quantity": 75,
+      "warehouse": "WH-002",
+      "last_updated": "2025-08-04T08:30:00Z"
+    }
+  }
+]
