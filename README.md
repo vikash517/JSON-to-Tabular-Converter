@@ -2,6 +2,8 @@
 
 A powerful Python desktop application that transforms nested JSON data into flat, structured tabular format for easy analysis and processing.
 
+*Last updated: August 2025*
+
 ## 🎯 Project Overview
 
 This application solves the common problem of converting complex, nested JSON structures into usable tabular data. Built with Python and Tkinter, it provides an intuitive GUI for importing JSON files, configuring conversion options, and exporting results to CSV or Excel formats.
@@ -222,7 +224,7 @@ python examples/demo_excel.py
 ## 🛠️ Technical Details
 
 ### Architecture
-- **Main Class**: `JSONToTabularConverter` - Handles application logic and GUI
+- **Main Class**: `JSONToTabularConverter` - Handle application logic and GUI
 - **JSON Processing**: Uses `pandas.json_normalize()` for efficient flattening
 - **GUI Framework**: Tkinter with modern styling and responsive design
 - **Data Handling**: Pandas DataFrames for robust data manipulation
