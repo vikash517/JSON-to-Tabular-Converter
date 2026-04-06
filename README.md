@@ -22,7 +22,7 @@ This application solves the common problem of converting complex, nested JSON st
   - **Data Sheet**: Main converted tabular data
   - **Summary Sheet**: Conversion statistics and metadata
   - **Column Details**: Detailed analysis of each column
-- **Advanced Excel Export**: Category-based sheet separation for complex datasets
+- **Advanced Excel Export**: Category-based sheet separation for complex dataset
 
 ### Conversion Options
 - **Custom Separators**: Choose how nested keys are joined (default: underscore)
