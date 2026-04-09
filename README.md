@@ -16,7 +16,7 @@ This application solves the common problem of converting complex, nested JSON st
 - **Real-time Preview**: View original JSON and converted tabular data side-by-side
 
 ### Advanced Excel Export Features
-- **Formatted Headers**: Professional styling with bold fonts and colored backgrounds
+- **Formatted Headers**: Professional styling with bold fonts and colored background
 - **Auto-sized Columns**: Intelligent column width adjustment based on content
 - **Multiple Sheets**: 
   - **Data Sheet**: Main converted tabular data
